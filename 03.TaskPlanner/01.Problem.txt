@@ -1,0 +1,16 @@
+Task Planner:
+
+1. Sprint: A sprint is a short, time boxed period when a team works to complete a set amount of work.
+2. Task: Any feature scheduled in the sprint is broken down into specific technical tasks. These tasks are used
+    by teams to decompose user stories or items to a more granular level.
+
+The task planner should have following functionalities:
+-> User should be able to create task of type Story, Feature, Bug. Each can have their own status.
+-> Stories can have further substracts.
+-> Should be able to change the status of any task.
+-> User should be able to create any sprint. Should be able to add any task to sprint and remove from it.
+
+The users should be able to print
+    * Delayed Task(s).
+    * Sprint details
+    * Tasks assigned to the user.
