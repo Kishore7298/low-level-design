@@ -1,0 +1,14 @@
+Goals of the system:
+
+1. Book a room for the meeting and return the name of the room booked.
+2. History of the meetings booked.
+
+Write an API which accepts start time and an end time, and returns the meeting room name for the booked 
+scheduled time.
+
+Exercise:
+1. Extend the current duration from a day to multiple days.
+2. The API to book a slot can be like
+    string Scheduler::book(int day, int start, int end);
+3. You're Free to modify the code as per your need. If it suits you, even erase the entire code 
+    and write your own from scratch. The only Requirement is to schedule the meeting(s) via the API on the given day.
